@@ -5,11 +5,8 @@
 
 - 👨‍💻 All of my projects are available [https://github.com/vincenzorusso12?tab=repositories](https://github.com/vincenzorusso12?tab=repositories)
 
-- 📝 I sometimes write articles on [https://vincenzorusso12.github.io/blog/](https://vincenzorusso12.github.io/blog/)
-
 - 📫 How to reach me **vincenzorusso380@gmail.com**
 
-- 📄 Know about my experiences on my website [https://vincenzorusso12.github.io/](https://vincenzorusso12.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
