@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Master's Degree**
 
-- 👨‍💻 All of my projects are available [https://github.com/VincenzoRusso3?tab=repositories](https://github.com/vincenzorusso12?tab=repositories)
+- 👨‍💻 All of my projects are available [https://github.com/VincenzoRusso3?tab=repositories](https://github.com/VincenzoRusso3?tab=repositories)
 
 - 📫 How to reach me **vincenzorusso380@gmail.com**
 
